@@ -1,0 +1,16 @@
+[
+  {
+    "id": "price_1KtBjpDKFyTjZRRtx4u6AYmO",
+    "title": "Chocolate",
+    "description": "This is a chocolate.",
+    "image": "/images/chocolate.png",
+    "price": 5.0
+  },
+  {
+    "id": "price_1KtBpoDKFyTjZRRtHeI6eHNP",
+    "title": "Cupcake",
+    "description": "This is a cupcake.",
+    "image": "/images/cupcake.png",
+    "price": 5.0
+  }
+]
